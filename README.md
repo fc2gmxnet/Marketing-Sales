@@ -1,4 +1,4 @@
-# Marketing-Sales
+# Marketing-Sales: Customer segmentation
 Marketing and Sales tools using machine learning with Python
 
 How to segment market data for unknown data.
