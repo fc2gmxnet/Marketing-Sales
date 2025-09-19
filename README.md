@@ -1,5 +1,7 @@
 # Marketing-Sales
-Machine learning, modeling and optimization tools for Marketing and Sales using Python Work in progress! :-)
+Machine learning, modeling and optimization tools for Marketing and Sales using Python.
+
+Work in progress! :-)
 
 Market Basket Analysis: 
 - Increase sales by customizing product proposals for each customer... and increasing customer satisfaction and loyalty in the meantime.
