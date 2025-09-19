@@ -1,8 +1,10 @@
-# Marketing-Sales: Customer segmentation
-Marketing and Sales tools using machine learning with Python
+# Marketing-Sales: Optimizing operational costs
+Marketing and Sales tools using non-linear programming with Python
 
-How to segment market data for unknown data.
+This code is also compatible with commercial solutions, such as Gurobi.
 
-This is also a good way to boost ideas for known data as well.
+Minimizing cost in the supply of one commodity from several plants.
 
-<img width="1242" height="512" alt="image" src="https://github.com/user-attachments/assets/fc5c16a0-9fca-4ef4-a819-ccddfe3c36a8" />
+- An excellent way to understand and conciliate potential conflicting goals of Sales teams and Operations teams... very helpful for S&OP.
+
+<img width="1073" height="681" alt="image" src="https://github.com/user-attachments/assets/d41115cf-48ba-4aae-a848-8e4c91f50914" />
