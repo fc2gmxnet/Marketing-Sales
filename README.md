@@ -33,5 +33,16 @@ Work in progress! :-)
 
 - Tool for better management of sales, very simple and yet very powerful.
 
+### Maximizing profit in a dairy factory.
+
+Showing data for ideas related to Product Management:
+
+* Which products deliver more profit?
+* Is manpower a bottleneck for further profit generation?
+* Which ingredients are a bottleneck?
+* How would profit look like removing ingredient bottlenecks?
+
+<img width="1178" height="494" alt="image" src="https://github.com/user-attachments/assets/87c24f21-d0e9-438a-b413-d3fe7793f834" />
+
 <img width="1140" height="645" alt="image" src="https://github.com/user-attachments/assets/20645400-2f0d-4f09-b515-fd98f14b95e1" />
 
