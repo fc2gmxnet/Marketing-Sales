@@ -22,3 +22,10 @@ Pricing-elasticity:
 <img width="1067" height="455" alt="image" src="https://github.com/user-attachments/assets/1f4b01ac-ec8d-433a-91f6-a10bab685024" />
 
 <img width="1052" height="425" alt="image" src="https://github.com/user-attachments/assets/cedc1292-d842-40bd-a0e2-10166302f2ff" />
+
+No-nonsense Sales Dashboard with Power BI:
+
+- Tool for better management of sales, very simple and yet very powerful.
+
+<img width="1140" height="645" alt="image" src="https://github.com/user-attachments/assets/20645400-2f0d-4f09-b515-fd98f14b95e1" />
+
