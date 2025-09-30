@@ -1,9 +1,12 @@
 # Marketing-Sales
-Machine learning, modeling and optimization tools for Marketing and Sales using Python... this time just with Power BI
+Machine learning, modeling and optimization tools for Marketing and Sales using Python... this time just with Power BI.
 
 Work in progress! :-)
 
-Sales Dashboard using Power BI (no coding required):
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
+
+## Sales Dashboard using Power BI (no coding required):
 
 This is a no-nonsense dashboard for sales management. Data are ficticious.
 
