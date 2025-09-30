@@ -1,7 +1,10 @@
 # Marketing-Sales: Customer segmentation
-Marketing and Sales tools using machine learning with Python
+Marketing and Sales tools using machine learning with Python. Work in progress! ;-)
 
-How to segment market data for unknown data.
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
+
+## How to segment market using just data.
 
 This is also a good way to boost ideas for known data as well.
 
