@@ -1,5 +1,5 @@
 # Marketing-Sales
-Machine learning for Marketing and Sales using Python Work in progress! :-)
+Machine learning for Marketing and Sales using Python. Work in progress! :-)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
