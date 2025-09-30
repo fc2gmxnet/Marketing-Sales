@@ -1,6 +1,10 @@
 # Marketing-Sales
+
 Machine learning, modeling and optimization for Marketing and Sales using Python.
 Work in progress! :-)
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
 
 - Pricing-elasticity: better price decisions, considering effect of changes in demand and price among several SKUs.
 
