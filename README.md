@@ -6,6 +6,7 @@ Work in progress! :-)
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
 
+## Projects
 
 Market Basket Analysis: 
 - Increase sales by customizing product proposals for each customer... and increasing customer satisfaction and loyalty in the meantime.
