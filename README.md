@@ -1,9 +1,12 @@
 # Marketing-Sales: Optimizing operational costs
-Marketing and Sales tools using non-linear programming with Python
+Marketing and Sales tools using non-linear programming with Python.
 
 This code is also compatible with commercial solutions, such as Gurobi.
 
-Minimizing cost in the supply of one commodity from several plants.
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
+
+## Minimizing cost in the supply of one commodity from several plants.
 
 - An excellent way to understand and conciliate potential conflicting goals of Sales teams and Operations teams... very helpful for S&OP.
 
