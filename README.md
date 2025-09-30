@@ -1,24 +1,28 @@
 # Marketing-Sales
-Machine learning, modeling and optimization tools for Marketing and Sales using Python.
+Machine learning, modeling and optimization tools for Marketing and Sales using Python... this time just with Power BI
 
 Work in progress! :-)
 
-Market Basket Analysis: 
-- Increase sales by customizing product proposals for each customer... and increasing customer satisfaction and loyalty in the meantime.
-- Optimize location of items in store, create smarter product promotion campaigns, learn from hidden buying patters from customers
+Sales Dashboard using Power BI (no coding required):
 
-  <img width="1298" height="721" alt="image" src="https://github.com/user-attachments/assets/f10b99b3-0b02-4016-936f-c860d9c0c21d" />
+This is a no-nonsense dashboard for sales management. Data are ficticious.
 
-How to segment market data for unknown data:
+So simple, yet so powerful if their insights are properly understood and taken care of:
 
-- This is also a good way to boost ideas for known data as well.
+- Time series evolution of quantity, revenue and profit
+- Waterfall chart analysis of factors influencing changes in quantity, revenue and profil
+- Ranking of factors with more influence in quantity, revenue and profit
 
-<img width="1242" height="512" alt="image" src="https://github.com/user-attachments/assets/fc5c16a0-9fca-4ef4-a819-ccddfe3c36a8" />
+You just need your data updated monthly with fields like: 
 
-Pricing-elasticity: 
+<img width="1109" height="69" alt="image" src="https://github.com/user-attachments/assets/b74fb948-5351-45be-9f34-b5a58da85a46" />
 
-- Better price decisions, considering effect of changes in demand and price among several SKUs.
+The display is lean and clean, enjoy!
 
-<img width="1067" height="455" alt="image" src="https://github.com/user-attachments/assets/1f4b01ac-ec8d-433a-91f6-a10bab685024" />
+<img width="1144" height="642" alt="image" src="https://github.com/user-attachments/assets/4dd1c5bb-ec93-405f-95a3-6eee29acc16e" />
 
-<img width="1052" height="425" alt="image" src="https://github.com/user-attachments/assets/cedc1292-d842-40bd-a0e2-10166302f2ff" />
+<img width="1144" height="643" alt="image" src="https://github.com/user-attachments/assets/34279833-0a35-492d-afb5-3488aa77cad6" />
+
+<img width="1146" height="642" alt="image" src="https://github.com/user-attachments/assets/82510160-0fb4-4986-826d-4d6eebf223c3" />
+
+
