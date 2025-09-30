@@ -1,7 +1,11 @@
 # Marketing-Sales
 Machine learning for Marketing and Sales using Python Work in progress! :-)
 
-Market Basket Analysis: 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
+
+## Market Basket Analysis: 
+
 - Increase sales by customizing product proposals for each customer... and increasing customer satisfaction and loyalty in the meantime.
 - Optimize location of items in store, create smarter product promotion campaigns, learn from hidden buying patters from customers
 
