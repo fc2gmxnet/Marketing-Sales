@@ -15,4 +15,6 @@ Showing data for ideas related to Product Management:
 * Which ingredients are a bottleneck?
 * How would profit look like removing ingredient bottlenecks?
 
+This solution has used free software and libraries, and can also be used with licensed software, like Gurobi.
+
 <img width="1178" height="494" alt="image" src="https://github.com/user-attachments/assets/87c24f21-d0e9-438a-b413-d3fe7793f834" />
