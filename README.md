@@ -14,5 +14,6 @@ Work in progress! :-)
   - Fast to run
   - Good explainability
   - Actually useful for many problems
+    
  
   <img width="1055" height="706" alt="image" src="https://github.com/user-attachments/assets/a809fbb6-9e35-4836-b0c8-62ca5e0a3eec" />
