@@ -47,3 +47,15 @@ Showing data for ideas related to Product Management:
 This solution has used free software and libraries, and can also be used with licensed software, like Gurobi.
 
 <img width="1178" height="494" alt="image" src="https://github.com/user-attachments/assets/87c24f21-d0e9-438a-b413-d3fe7793f834" />
+
+### Forecasting using statistical models: 
+
+- "Predict the future" to prepare yourself now: demand, production availability, new product launch, competitor's activities, marketing campaigns...
+- Give it a try to statistical models:
+  - Easy to model
+  - Fast to run
+  - Good explainability
+  - Actually useful for many problems
+    
+ 
+  <img width="1055" height="706" alt="image" src="https://github.com/user-attachments/assets/a809fbb6-9e35-4836-b0c8-62ca5e0a3eec" />
