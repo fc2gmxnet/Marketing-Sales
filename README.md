@@ -16,7 +16,7 @@ The tool of choice to discover:
 - Priority setting for product development
 - Simulation of product success before launch
 
-All that making a smart customer survey.
+All that by making a smart customer survey.
 
 <img width="1285" height="520" alt="image" src="https://github.com/user-attachments/assets/69a44298-5c24-4398-b3cd-f0ff1df1d0e2" />
 
