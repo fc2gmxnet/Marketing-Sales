@@ -8,25 +8,6 @@ Work in progress! :-)
 
 ## Overview
 
-<table>
-  <tr>
-    <th style="width:55px;">Project</th>
-    <th style="width:133px;">Link</th>
-    <th>Image</th>
-  </tr>
-  <tr>
-    <td>Conjoint analysis (advanced customer survey)</td>
-    <td style="width:155px;"><a href="https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb">Click to know more...</a></td>
-    <td><img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png?raw=true" width="388"/></td>
-  </tr>
-  <tr>
-    <td>Dashboard for Sales with Power BI</td>
-    <td style="width:155px;"><a href="https://github.com/fc2gmxnet/Marketing-Sales/tree/Power-BI-Sales-Dashboard">Click to know more...</a></td>
-    <td><img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Sales%20Dashboard_Power%20BI.png?raw=true" width="388"/></td>
-  </tr>
-</table>
-
-
 | Project | Link | Image |
 |--------------|------|-------|
 | Conjoint analysis (advanced customer survey) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png" width="588"/> |
@@ -37,12 +18,6 @@ Work in progress! :-)
 | Minimizing costs (S&OP plant allocation) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Optimizing_operational_costs/Operation%20optimization_nonlinear%20economic%20dispatch.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Operation%20optimization.png" width="588"/> |
 | Pricing (demand elasticity) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Elasticity/Pricing-elasticity.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Price%20elasticity.png" width="588"/> |
 | Segmentation (unsupervised machine learning) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Segmentation/Customer%20segmentation.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Segmentation-Unsupervised%20learning.png" width="588"/> 
-
-| Project | Link | Image |
-|--------------|------|-------|
-| Market basket analysis | [Click to know more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Market-Basket-Analysis/Market%20basket%20analysis.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Market%20basket%20analysis.png" width="388"/> |
-| Segmentation (unsupervised)  | [Click to know more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Segmentation/Customer%20segmentation.ipynb)  | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Segmentation-Unsupervised%20learning.png" width="388"/> |
-| Pricing elasticity | [Click to know more...](https://github.com/username/project-gamma) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Price%20elasticity.png" width="388"/> |
 
 ## Projects
 
