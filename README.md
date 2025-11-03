@@ -10,8 +10,8 @@ Work in progress! :-)
 
 <table>
   <tr>
-    <th style="width:120px;">Project</th>
-    <th style="width:110px;">Link</th>
+    <th style="width:88px;">Project</th>
+    <th style="width:133px;">Link</th>
     <th>Image</th>
   </tr>
   <tr>
