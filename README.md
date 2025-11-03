@@ -6,6 +6,14 @@ Work in progress! :-)
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/fermin-coloma/)
 
+## Overview
+
+| Project | Link | Image |
+|--------------|------|-------|
+| Market basket analysis | [View on GitHub](https://github.com/fc2gmxnet/Marketing-Sales/blob/Market-Basket-Analysis/Market%20basket%20analysis.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Market%20basket%20analysis.png" width="300"/> |
+| Segmentation (unsupervised)  | [View on GitHub](https://github.com/fc2gmxnet/Marketing-Sales/blob/Segmentation/Customer%20segmentation.ipynb)  | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Segmentation-Unsupervised%20learning.png" width="300"/> |
+| Pricing elasticity | [View on GitHub](https://github.com/username/project-gamma) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Price%20elasticity.png" width="300"/> |
+
 ## Projects
 
 ### Market Basket Analysis: 
