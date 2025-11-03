@@ -10,9 +10,9 @@ Work in progress! :-)
 
 | Project | Link | Image |
 |--------------|------|-------|
-| Market basket analysis | [View on GitHub](https://github.com/fc2gmxnet/Marketing-Sales/blob/Market-Basket-Analysis/Market%20basket%20analysis.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Market%20basket%20analysis.png" width="388"/> |
-| Segmentation (unsupervised)  | [View on GitHub](https://github.com/fc2gmxnet/Marketing-Sales/blob/Segmentation/Customer%20segmentation.ipynb)  | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Segmentation-Unsupervised%20learning.png" width="388"/> |
-| Pricing elasticity | [View on GitHub](https://github.com/username/project-gamma) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Price%20elasticity.png" width="388"/> |
+| Market basket analysis | [Click to know more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Market-Basket-Analysis/Market%20basket%20analysis.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Market%20basket%20analysis.png" width="388"/> |
+| Segmentation (unsupervised)  | [Click to know more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Segmentation/Customer%20segmentation.ipynb)  | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Segmentation-Unsupervised%20learning.png" width="388"/> |
+| Pricing elasticity | [Click to know more...](https://github.com/username/project-gamma) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Price%20elasticity.png" width="388"/> |
 
 ## Projects
 
