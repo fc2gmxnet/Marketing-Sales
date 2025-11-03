@@ -10,7 +10,7 @@ Work in progress! :-)
 
 | Project | Link | Image |
 |--------------|------|-------|
-| Conjoint analysis (advanced customer survey) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png" width="588"/> |
+| Conjoint analysis (advanced customer survey) | [Click for more..](https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png" width="588"/> |
 | Dashboard for Sales with Power BI | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/tree/Power-BI-Sales-Dashboard) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Sales%20Dashboard_Power%20BI.png" width="588"/> |
 | Forecast with statistical models | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Forecast---Statistical-models/forecasting_statistical_models.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Forecast_statistical%20models.png" width="588"/> |
 | Market basket analysis (product recommendation) | [Click for more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Market-Basket-Analysis/Market%20basket%20analysis.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Market%20basket%20analysis.png" width="588"/> |
