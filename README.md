@@ -1,5 +1,5 @@
 # Marketing-Sales
-Machine learning, modeling and optimization tools for Marketing and Sales using Python.
+Machine learning, modeling, optimization and other analytics tools for Marketing and Sales using Python.
 
 Work in progress! :-)
 
