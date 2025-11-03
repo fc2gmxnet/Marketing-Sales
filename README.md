@@ -8,6 +8,25 @@ Work in progress! :-)
 
 ## Overview
 
+<table>
+  <tr>
+    <th style="width:222px;">Project</th>
+    <th style="width:155px;">Link</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td>Conjoint analysis (advanced customer survey)</td>
+    <td style="width:155px;"><a href="https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb">Click to know more...</a></td>
+    <td><img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png?raw=true" width="388"/></td>
+  </tr>
+  <tr>
+    <td>Dashboard for Sales with Power BI</td>
+    <td style="width:155px;"><a href="https://github.com/fc2gmxnet/Marketing-Sales/tree/Power-BI-Sales-Dashboard">Click to know more...</a></td>
+    <td><img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Sales%20Dashboard_Power%20BI.png?raw=true" width="388"/></td>
+  </tr>
+</table>
+
+
 | Project | Link | Image |
 |--------------|------|-------|
 | Conjoint analysis (advanced customer survey) | [Click to know more...](https://github.com/fc2gmxnet/Marketing-Sales/blob/Conjoint-Analysis/choice-based%20conjoint%20analysis-github.ipynb) | <img src="https://github.com/fc2gmxnet/Marketing-Sales/blob/main/images/Conjoint%20analysis.png" width="388"/> |
